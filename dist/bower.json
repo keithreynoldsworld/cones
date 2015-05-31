@@ -1,0 +1,19 @@
+{
+  "name": "keithy",
+  "version": "0.0.0",
+  "homepage": "https://github.com/keithreynoldsworld/cones",
+  "authors": [
+    "Keith Reynolds <keithreynoldsworld@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "chai": "~2.3.0"
+  }
+}
